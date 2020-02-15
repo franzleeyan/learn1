@@ -47,7 +47,7 @@ print(f"I said: {x}")
 print(f"I also said: '{y}")
 
 # 定义这不是一个搞笑的说法
-hilarious = False
+hilarious = True
 # 笑话评级
 joke_evaluation = "Isn't that joke so funny? {}!"
 # 打印笑话的效果
